@@ -1,0 +1,23 @@
+# Local product docs not for remote repo
+Product.md
+Blog
+Blog/*
+
+# Local product docs not for remote repo
+Product.md
+Blog
+Blog/*
+swe-agent-mvp-blog.md
+__pycache__
+sandbox
+*.log
+*.tmp
+*.bak
+.DS_Store
+.idea
+.vscode
+*.swp
+.env
+.env.local
+.env.*.local
+node_modules
