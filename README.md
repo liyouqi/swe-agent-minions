@@ -63,7 +63,7 @@ python agent.py
 - If you see `OPENAI_API_KEY` related errors, check whether your variables are loaded in the current shell.
 - This is an experiment project, so the focus is clarity and iteration speed rather than a production-ready system.
 
-## Why this project exists
+## intitial
 
 I built this repo to understand the core mechanics of an SWE-style agent before adding complexity.
 
